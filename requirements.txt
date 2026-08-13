@@ -3,3 +3,10 @@ uvicorn[standard]
 sqlmodel
 ollama
 python-dotenv
+watchdog
+requests
+tree-sitter
+tree-sitter-python
+tree-sitter-javascript
+ruff
+networkx
