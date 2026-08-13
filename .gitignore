@@ -1,0 +1,26 @@
+# 가상환경
+venv/
+env/
+.venv/
+
+# 환경변수 (민감한 경로/설정 - .env.example만 커밋)
+.env
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite DB 및 WAL 관련 파일 (database.py에서 journal_mode=WAL 사용)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# 에디터/OS
+.DS_Store
+.vscode/
+*.code-workspace
+
+# 로그
+*.log
