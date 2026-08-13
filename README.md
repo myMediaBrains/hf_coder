@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hf_coder
 
 hf_crawler의 "💻 코딩분석" 기능을 독립시킨 별도 서비스입니다. hf_crawler와는
@@ -36,3 +37,6 @@ VITE_CODE_API_URL=http://localhost:8100
 - codebase-memory: 코드 임베딩 기반 자동 관련 파일 검색(RAG)
 
 전부 이 서비스 안에서만 손보면 되고, hf_crawler는 건드릴 필요가 없습니다.
+=======
+# hf_coder
+>>>>>>> fad152579ecb54a7f8b317ce5a32f2e6d73b5b46
